@@ -1,1 +1,1 @@
-https://hub.docker.com/r/collinwebdesigns/fastapi-dls
+collinwebdesigns/fastapi-dls:latest
